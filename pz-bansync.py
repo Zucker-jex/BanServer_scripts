@@ -15,7 +15,7 @@ import urllib.request
 from pathlib import Path
 
 # ==================== 配置区 ====================
-API_BASE     = "https://banserver.zuckertech.cn/"   # ban联服器 API 地址
+API_BASE     = "https://banserver.zuckertech.cn"         # ban联服器 API 地址
 API_USERNAME = "your_api_username"                       # ban联服器 API 用户名
 API_PASSWORD = "your_api_password"                       # ban联服器 API 密码
 
